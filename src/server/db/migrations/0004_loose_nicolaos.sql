@@ -1,0 +1,1 @@
+ALTER TABLE "bill" ADD COLUMN "direction" text DEFAULT 'sale' NOT NULL;
