@@ -1,0 +1,1 @@
+CREATE INDEX "stock_movement_created_at_idx" ON "stock_movement" USING btree ("created_at");

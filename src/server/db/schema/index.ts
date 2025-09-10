@@ -8,3 +8,5 @@ export * from "./bill-items";
 export * from "./payments";
 export * from "./stock";
 export * from "./stock-movements";
+export * from "./stock-transfers";
+export * from "./stock-transfer-items";
