@@ -2,6 +2,7 @@ import { createCallerFactory, createTRPCRouter } from "@/server/api/trpc";
 import { billsRouter } from "./routers/bills";
 import { categoriesRouter } from "./routers/categories";
 import { customersRouter } from "./routers/customers";
+import { paymentReversalsRouter } from "./routers/payment-reversals";
 import { paymentsRouter } from "./routers/payments";
 import { productsRouter } from "./routers/products";
 import { returnsRouter } from "./routers/returns";
@@ -19,6 +20,7 @@ export const appRouter = createTRPCRouter({
   returns: returnsRouter,
   stockTransfers: stockTransfersRouter,
   users: usersRouter,
+  paymentReversals: paymentReversalsRouter,
 });
 
 export type AppRouter = typeof appRouter;
