@@ -1,0 +1,1 @@
+ALTER TABLE "bill_item" ADD COLUMN "base_price_paisas" bigint;

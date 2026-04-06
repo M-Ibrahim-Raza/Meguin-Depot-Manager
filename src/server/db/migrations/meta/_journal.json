@@ -1,0 +1,118 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1780754060686,
+      "tag": "0000_cloudy_bloodscream",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1781365627181,
+      "tag": "0001_curved_maginty",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1781368101650,
+      "tag": "0002_lovely_wendigo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1781483961184,
+      "tag": "0003_careful_captain_midlands",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1781983946953,
+      "tag": "0004_loose_nicolaos",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1782003858237,
+      "tag": "0005_optimal_hannibal_king",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1782021264365,
+      "tag": "0006_sparkling_captain_flint",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1782073006445,
+      "tag": "0007_normal_wild_child",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1784490665679,
+      "tag": "0008_futuristic_quicksilver",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1784491884355,
+      "tag": "0009_powerful_hammerhead",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1784493688247,
+      "tag": "0010_lonely_matthew_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "7",
+      "when": 1784896268994,
+      "tag": "0011_backfill_admin_user_roles",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "7",
+      "when": 1786284555602,
+      "tag": "0012_busy_rick_jones",
+      "breakpoints": true
+    },
+    {
+      "idx": 13,
+      "version": "7",
+      "when": 1786284851160,
+      "tag": "0013_clumsy_flatman",
+      "breakpoints": true
+    },
+    {
+      "idx": 14,
+      "version": "7",
+      "when": 1786287882462,
+      "tag": "0014_breezy_gateway",
+      "breakpoints": true
+    },
+    {
+      "idx": 15,
+      "version": "7",
+      "when": 1786292452794,
+      "tag": "0015_safe_titania",
+      "breakpoints": true
+    }
+  ]
+}
